@@ -1,0 +1,24 @@
+Version 0.0.3
+
+Version 0.0.2
+
+The player and monsters now have the ability to dodge.  Dodge is a special ability called Reaction.  
+A reaction ability will be % based ability and you or the monster will do this without thought.
+
+Currently the dodge % is hard coded into the fight but will be determined later by your speed.  The 
+speed of player/monster will determine the base dodge % and can have an effect of the % to hit or % 
+to dodge of the opposite.  For example the level 1 player attacks a level 5 orc.  The player 
+(because of the slower speed) will almost always miss the Orc and the Orc will almost always hit
+the player.
+
+Version 0.0.1
+
+Added the following movement keys:
+	Up = Keypad 8, Up key and e
+	Diagonal to Up Left = Keypad 7 and w
+	Diagonal to Up Right = Keypad 9 and r
+	Down = Keypad 2, Down key and d
+	Diagonal to Up Left = Keypad 1 and z
+	Diagonal to Up Right = Keypad 3 and v
+	Left = Keypad 4, Left key and s
+	Right = Keypad 6, Right key and f
