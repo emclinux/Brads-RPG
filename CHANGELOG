@@ -1,4 +1,8 @@
-Version 0.0.3
+Version 0.0.4
+
+An inventory is now added to the game.  You can access the inventory by pressing the 'i' key and then choosing the item that you wish to use.  You can also pickup items left in the rooms by pressing the 'g' key.  Right now all that is added is a healing potion but much more later.
+
+Also more monsters and rooms because you have the ability to heal.
 
 Version 0.0.2
 
